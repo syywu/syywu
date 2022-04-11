@@ -1,9 +1,6 @@
 <h1 align"center">Hi there, I am Sam 👋</h1>
 
-<p align=center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syywu)](https://github.com/anuraghazra/github-readme-stats)</p>
-                
-                
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syywu)](https://github.com/anuraghazra/github-readme-stats)     
                
 
 <h3 align="left">Connect with me:</h3>
