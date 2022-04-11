@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Sam 👋</h1>
+<h1 align="center">Hi there, I am Sam :wave:</h1>
 
       
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syywu)](https://github.com/anuraghazra/github-readme-stats)     -->
