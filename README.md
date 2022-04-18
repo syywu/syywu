@@ -8,14 +8,19 @@
 <h3>Languages and Technologies:</h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" style="margin:4px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" style="margin:4px;">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="36" height="36" style="margin:4px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="36" height="36" style="margin:4px;">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="36" height="36" style="margin:4px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="36" height="36" style="margin:4px;">
 </a>
+<a href="https://git-scm.com/" target="_blank" rel="noopener">
+<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="36" height="36" style="margin:4px;">
+</a>
+
+
 </div>
                
 
