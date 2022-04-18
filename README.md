@@ -1,9 +1,11 @@
 <h1 align="center">Hi there, I am Sam :wave:</h1>
-
-
-
       
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syywu)](https://github.com/anuraghazra/github-readme-stats)     -->
+
+<p align="center">I am currently learning to code :books: </p>
+
+###Langueages and technologies:
+
                
 
 <h3 align="center">Connect with me:</h3>
@@ -11,6 +13,9 @@
 <a href="https://twitter.com/syywuu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/samantha-wu-5a2a25141/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
+
+
+
 
 
 <!--
