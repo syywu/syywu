@@ -4,7 +4,7 @@
 
 <p align="center">I am currently learning to code :books: </p>
 
-### Langueages and technologies:
+### Languages and Technologies:
 
                
 
