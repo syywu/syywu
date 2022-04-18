@@ -19,6 +19,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noopener">
 <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="36" height="36" style="margin:4px;">
 </a>
+<a href="https://github.com/dawidl022" target="_blank" rel="noopener">
+<img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="Github" width="36" height="36" style="margin:4px;">
+</a>
+
 
 
 </div>
