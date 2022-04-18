@@ -7,6 +7,9 @@
 <div align="center">
 <h3>Languages and Technologies:</h3>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" style="margin:4px;">
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="36" height="36" style="margin:4px;">
 </a>
