@@ -2,7 +2,7 @@
       
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syywu)](https://github.com/anuraghazra/github-readme-stats)     -->
 
-<p align="center">Software Developer in making- I am currently learning to code :books: </p>
+<p align="center">Software Developer in the making- I am currently learning to code :books: </p>
 
 <div align="center">
 <h3>Languages and Technologies:</h3>
