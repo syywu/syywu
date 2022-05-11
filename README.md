@@ -27,7 +27,9 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">
 <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="VSCode" width="36" height="36" style="margin:4px;">
 </a>
-<img src="https://img.icons8.com/color/46/figma--v1.pngg" alt="CSS" width="36" height="36" style="margin:4px;/>
+<a href="https://www.figma.com/" target="_blank" rel="noopener">
+<img src="https://img.icons8.com/color/46/figma--v1.pngg" alt="CSS" width="36" height="36" style="margin:4px;">
+</a>
 
 </div>
                
