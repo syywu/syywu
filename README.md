@@ -5,7 +5,7 @@
 <p align="center">Software Developer in the making- I am currently learning to code :books: </p>
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23696969&textColor=%23FFC0CB&aColor=%23AFEEEE&borderColor=%23F5F5F5)
+<p align="center">![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23696969&textColor=%23FFC0CB&aColor=%23AFEEEE&borderColor=%23F5F5F5) </p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=syywu&label=Profile%20views&color=0e75b6&style=flat" alt="syywu"/></p>
