@@ -6,6 +6,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=syywu&label=Profile%20views&color=0e75b6&style=flat" alt="syywu"/></p>
 
+<p align="left"><a target="_blank" href="https://github.com/syywu/syywu/blob/output/github-contribution-grid-snake.svg"><img height="180em" src="https://github.com/syywu/syywu/raw/output/github-contribution-grid-snake.svg" alt="sams snake gif" /></a>
+</p>
+
 <div align="center">
 <h3>Languages and Technologies:</h3>
 
