@@ -25,6 +25,8 @@
 </a>
 <a href="https://nodejs.dev" target="_blank" rel="noopener">                                                                                                 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noopener"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank" rel="noopener">
 <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="36" height="36" style="margin:4px;">
 </a>
