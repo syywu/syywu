@@ -23,6 +23,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="36" height="36" style="margin:4px;">
 </a>
+<a href="https://reactjs.org" target="_blank" rel="noopener"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="36" height="36" />
 <a href="https://nodejs.dev" target="_blank" rel="noopener">                                                                                                 <img src="https://i.imgur.com/tPkTeWT.png" title="NodeJS" alt="NodeJS" width="36" height="36"/>&nbsp;
 </a>
 <a href="https://graphql.org" target="_blank" rel="noopener">  
