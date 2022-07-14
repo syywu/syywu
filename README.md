@@ -23,12 +23,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="36" height="36" style="margin:4px;">
 </a>
-<a href="https://nodejs.dev" target="_blank" rel="noopener">                                                                                                 <img src="https://i.imgur.com/tPkTeWT.png" title="NodeJS" alt="NodeJS" width="43" height="43"/>&nbsp;
+<a href="https://nodejs.dev" target="_blank" rel="noopener">                                                                                                 <img src="https://i.imgur.com/tPkTeWT.png" title="NodeJS" alt="NodeJS" width="36" height="36"/>&nbsp;
 </a>
 <a href="https://graphql.org" target="_blank" rel="noopener">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="43" height="43"/>      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36"/>      
 <a href="https://www.postgresql.org" target="_blank" rel="noopener"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<a href="https://jestjs.io" target="_blank" rel="noopener">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" height="36" />
 <a href="https://git-scm.com/" target="_blank" rel="noopener">
 <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="36" height="36" style="margin:4px;">
 </a>
