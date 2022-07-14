@@ -26,7 +26,7 @@
 <a href="https://nodejs.dev" target="_blank" rel="noopener">                                                                                                 <img src="https://i.imgur.com/tPkTeWT.png" title="NodeJS" alt="NodeJS" width="43" height="43"/>&nbsp;
 </a>
 <a href="https://graphql.org" target="_blank" rel="noopener">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="43" height="43"/>      
 <a href="https://www.postgresql.org" target="_blank" rel="noopener"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank" rel="noopener">
