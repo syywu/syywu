@@ -56,6 +56,9 @@
 <a href="https://www.linkedin.com/in/samantha-wu-5a2a25141/"><img src="https://img.shields.io/badge/-Samantha_Wu-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
 </div>
 
+
+
+
 <!--
 **syywu/syywu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -69,5 +72,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syywu&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+
 -->
 
