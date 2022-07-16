@@ -62,7 +62,8 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 <a href="https://twitter.com/syywuu"><img src="https://img.shields.io/badge/-@syywuu-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/samantha-wu-5a2a25141/"><img src="https://img.shields.io/badge/-Samantha_Wu-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samantha-wu-5a2a25141/"><img src="https://img.shields.io/badge/-Samantha_Wu-0072b1?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
 </div>
 
 
