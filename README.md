@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" style="margin:4px;">
 </a>
 <a href="https://www.typescriptlang.org" target="_blank" rel="noopener">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" style="margin:4px;/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" style="margin:4px;>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="36" height="36" style="margin:4px;">
@@ -27,24 +27,24 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="36" height="36" style="margin:4px;">
 </a>
 <a href="https://reactjs.org" target="_blank" rel="noopener"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="36" height="36 style="margin:4px;/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="36" height="36 style="margin:4px;>
 </a>
-<a href="https://nodejs.dev" target="_blank" rel="noopener">                                                                                                 <img src="https://i.imgur.com/tPkTeWT.png" title="NodeJS" alt="NodeJS" width="36" height="36" style="margin:4px;/>
+<a href="https://nodejs.dev" target="_blank" rel="noopener">                                                                                                 <img src="https://i.imgur.com/tPkTeWT.png" title="NodeJS" alt="NodeJS" width="36" height="36" style="margin:4px;>
 </a>
 <a href="https://graphql.org" target="_blank" rel="noopener">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" style="margin:4px;/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" style="margin:4px;>
 </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noopener"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36" style="margin:4px;/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36" style="margin:4px;>
 </a>
 <a href="https://www.mongodb.com" target="_blank" rel="noopener"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" style="margin:4px;/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" style="margin:4px;>
 </a>
 <a href="https://hub.docker.com/" target="_blank" rel="noopener"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="36" height="36" style="margin:4px; />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="36" height="36" style="margin:4px;>
 </a>
 <a href="https://jestjs.io" target="_blank" rel="noopener">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" height="36" style="margin:4px; />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" height="36" style="margin:4px;">
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noopener">
 <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="36" height="36" style="margin:4px;">
