@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I am Sam :wave:</h1>
       
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syywu)](https://github.com/syywu/github-readme-stats)     -->
 <p align="center">
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syywu&&theme=radical&layout=compact&custom_title=Languages" />
  </p>
