@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=syywu&label=Profile%20views&color=0e75b6&style=flat" alt="syywu"/></p>
 <!-- <p align="center">  <img src="https://www.codewars.com/users/syywu/badges/small"/> </p> -->
 
-<div align="center">
+<!-- <div align="center">
 <h3>Languages and Technologies:</h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
@@ -52,7 +52,7 @@
 <img src="https://img.icons8.com/color/46/figma--v1.pngg" alt="Figma" width="36" height="36" style="margin:4px";>
 </a>
 
-</div>
+</div> -->
                
 
 <h3 align="center">Connect with me:</h3>
