@@ -2,9 +2,9 @@
       
 <!-- <p align="center">
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syywu&&theme=radical&layout=compact&custom_title=Languages" />
- </p> -->
+<!--  </p> --> 
  
-   ![Snake animation](https://github.com/syywu/syywu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/syywu/syywu/blob/output/github-contribution-grid-snake.svg)
 
 
 
