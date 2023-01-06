@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I am Sam :wave:</h1>
       
-<p align="center">
+<!-- <p align="center">
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syywu&&theme=radical&layout=compact&custom_title=Languages" />
- </p>
+ </p> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=syywu&label=Profile%20views&color=0e75b6&style=flat" alt="syywu"/></p>
 <!-- <p align="center">  <img src="https://www.codewars.com/users/syywu/badges/small"/> </p> -->
