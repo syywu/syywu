@@ -2,60 +2,12 @@
       
 <!-- <p align="center">
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syywu&&theme=radical&layout=compact&custom_title=Languages" />
-<!--  </p> --> 
+ </p>  -->
  
 ![Snake animation](https://github.com/syywu/syywu/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=syywu&label=Profile%20views&color=0e75b6&style=flat" alt="syywu"/></p>
 <!-- <p align="center">  <img src="https://www.codewars.com/users/syywu/badges/small"/> </p> -->
-
-<!-- <div align="center">
-<h3>Languages and Technologies:</h3>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" style="margin:4px;">
-</a>
-<a href="https://www.typescriptlang.org" target="_blank" rel="noopener">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" style="margin:4px;">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="36" height="36" style="margin:4px;">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="36" height="36" style="margin:4px;">
-</a>
-<a href="https://reactjs.org" target="_blank" rel="noopener"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="36" height="36 style="margin:4px";>
-</a>
-<a href="https://nodejs.dev" target="_blank" rel="noopener">                                                                                                 <img src="https://i.imgur.com/tPkTeWT.png" title="NodeJS" alt="NodeJS" alt="NodeJS" width="36" height="36" style="margin:4px";>
-</a>
-<a href="https://graphql.org" target="_blank" rel="noopener">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="36" height="36" style="margin:4px";>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noopener"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36" style="margin:4px";>
-</a>
-<a href="https://www.mongodb.com" target="_blank" rel="noopener"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36" style="margin:4px";>
-</a>
-<a href="https://hub.docker.com/" target="_blank" rel="noopener"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="36" height="36" style="margin:4px";>
-</a>
-<a href="https://jestjs.io" target="_blank" rel="noopener">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="36" height="36" style="margin:4px";">
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noopener">
-<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="36" height="36" style="margin:4px";>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener">
-<img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="VSCode" width="36" height="36" style="margin:4px";>
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noopener">
-<img src="https://img.icons8.com/color/46/figma--v1.pngg" alt="Figma" width="36" height="36" style="margin:4px";>
-</a>
-
-</div> -->
-               
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
