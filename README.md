@@ -1,4 +1,4 @@
-<h1 align="center">𝙷𝚒! 𝙸 𝚊𝚖 S𝚊𝚖 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+<h1 align="center">𝙷𝚒! 𝙸 𝚊𝚖 S𝚊𝚖 👩‍💻 </h1>
       
 <!-- <p align="center">
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syywu&&theme=radical&layout=compact&custom_title=Languages" />
