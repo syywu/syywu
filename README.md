@@ -2,9 +2,9 @@
       
 ![Snake animation](https://github.com/syywu/syywu/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
+<!-- <p align="center">
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syywu&&theme=radical&layout=compact&custom_title=Languages" />
- </p> 
+ </p>  -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=syywu&label=Profile%20views&color=0e75b6&style=flat" alt="syywu"/></p>
 <!-- <p align="center">  <img src="https://www.codewars.com/users/syywu/badges/small"/> </p> -->
