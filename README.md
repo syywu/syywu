@@ -6,7 +6,7 @@
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syywu&&theme=radical&layout=compact&custom_title=Languages" />
  </p>  -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=syywu&label=Profile%20views&color=0e75b6&style=flat" alt="syywu"/></p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=syywu&label=Profile%20views&color=0e75b6&style=flat" alt="syywu"/></p> -->
 <!-- <p align="center">  <img src="https://www.codewars.com/users/syywu/badges/small"/> </p> -->
 
 <h3 align="center">Connect with me:</h3>
