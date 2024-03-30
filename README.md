@@ -1,4 +1,4 @@
-<h1 align="center">𝙷𝚒! 𝙸 𝚊𝚖 S𝚊𝚖 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
       
 ![Snake animation](https://github.com/syywu/syywu/blob/output/github-contribution-grid-snake.svg)
 
